@@ -4,7 +4,8 @@ Scripts to study markets
 To understand the role of emotions in markets, we look at Hong Kong market.  HSI (Hang Seng Index) is a major index in Hong Kong.  HSIL is the implied volaility of the index.
 We load data from csv files, merge them into a single dataframe and plot them on the same scale (using normalize techniques) to observe them.
 
-Here is a plot of HSI with IV.
+Here is a plot of HSI with IV. (see also [this html](https://github.com/siufai6/stocks-analysis/blob/main/sentiment_HSI.html) )
+
 ![HSI vs IV](https://github.com/siufai6/stocks-analysis/blob/main/HSI_IV.png)
 
 Observations:
